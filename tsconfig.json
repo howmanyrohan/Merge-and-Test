@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "es6",
+      "strict": true,
+    },
+    "include": [
+      "merge.ts",
+      "merge.test.ts" 
+    ],
+    "exclude": [
+      "node_modules" 
+    ]
+  }
+  
